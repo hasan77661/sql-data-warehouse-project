@@ -33,6 +33,11 @@ This project involves:
 
 ---
 
+##Project Roadmap
+You can track the progress and detailed task management of this project on[Notion](https://www.notion.so/Data-Warehouse-Project-3322101cff2280c5aba4dd232a6c21ab?source=copy_link)
+
+---
+
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
